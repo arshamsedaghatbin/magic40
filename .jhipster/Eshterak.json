@@ -1,0 +1,33 @@
+{
+  "name": "Eshterak",
+  "fields": [
+    {
+      "fieldName": "text",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "amount",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "until",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "type",
+      "fieldType": "UntilType",
+      "fieldValues": "MONTH,DAY,YEAR"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "eshterak",
+  "dto": "mapstruct",
+  "pagination": "pagination",
+  "service": "serviceImpl",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210813081749"
+}
