@@ -1,0 +1,10 @@
+{
+  "magic40App": {
+    "UntilType": {
+      "null": "",
+      "MONTH": "MONTH",
+      "DAY": "DAY",
+      "YEAR": "YEAR"
+    }
+  }
+}

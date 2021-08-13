@@ -1,0 +1,27 @@
+{
+  "magic40App": {
+    "eshterak": {
+      "home": {
+        "title": "Eshteraks",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Eshterak",
+        "createOrEditLabel": "Create or edit a Eshterak",
+        "notFound": "No Eshteraks found"
+      },
+      "created": "A new Eshterak is created with identifier {{ param }}",
+      "updated": "A Eshterak is updated with identifier {{ param }}",
+      "deleted": "A Eshterak is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Eshterak {{ id }}?"
+      },
+      "detail": {
+        "title": "Eshterak"
+      },
+      "id": "ID",
+      "text": "Text",
+      "amount": "Amount",
+      "until": "Until",
+      "type": "Type"
+    }
+  }
+}
